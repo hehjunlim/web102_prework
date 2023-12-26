@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/k0OLIUM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WalkthroughWeb102-HL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Giphy Capture
 
